@@ -7,10 +7,12 @@ export const Navbar = () => {
     const [menu,setmenu]=useState("shop");
   return (
     <div className='navbar' style={{ padding:5 }}>
-        <div className='nav-logo'>
+    <Link to="/" style={{textDecoration:'none'}}>
+        <div className='nav-logo' >
             <img src={logo} alt=""/>
-            <p>SHOPPER</p>
-        </div>
+            <p >SHOPPER</p>
+            </div>
+            </Link>
         
         <ul className='nav-menu'>
             <li onClick={()=>{setmenu("shop")}}> <Link to='/' style={{textDecoration:"none"}}>Shop</Link> { menu==="shop"?<hr/>:<div></div>}</li>

@@ -1,22 +1,23 @@
-### Main Page
-![Screenshot (3)](https://github.com/yashmangla123456/E-commerce-site/assets/87927561/32eb9e8c-1270-4a4b-aa54-6022b3d4c77f)
+### Landing Page
+![Screenshot (3)](https://github.com/yashmangla123456/E-commerce-site/assets/87927561/95bad9a7-8c72-4b7b-969a-c77bb0bddb45)
+
 
 
 ### Mens Page
-![Screenshot (4)](https://github.com/yashmangla123456/E-commerce-site/assets/87927561/f7183308-28f0-47dc-94db-f334d1ae9359)
+![Screenshot (4)](https://github.com/yashmangla123456/E-commerce-site/assets/87927561/59d67f5a-da87-49ef-b73f-d9c62c563ec3)
 
-### Cart Image
-![image](https://github.com/yashmangla123456/E-commerce-site/assets/87927561/1ec7017d-3343-4ed8-ab0b-d301a41532cb)# Getting Started with Create React App
+
 
 ### Kids Page
-![Screenshot (5)](https://github.com/yashmangla123456/E-commerce-site/assets/87927561/caaf915c-1428-4768-a2bf-18af7d335f8f)
+![Screenshot (5)](https://github.com/yashmangla123456/E-commerce-site/assets/87927561/ee4d1c2e-7f5f-408e-a9e8-77623f8975a2)
+
+### Cart Image
+![Screenshot (6)](https://github.com/yashmangla123456/E-commerce-site/assets/87927561/da4e2c8c-1c25-4981-8869-d01e46e04933)
+
+
 
 
 ### Deployment
 https://yashmangla123456.github.io/E-commerce-site/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

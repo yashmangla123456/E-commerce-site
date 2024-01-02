@@ -6,14 +6,14 @@ import { Link } from "react-router-dom";
 import { ShopContext } from "../../Context/ShopContext";
 export const Navbar = () => {
   const [menu, setmenu] = useState("shop");
-  const {getTotalCartItems} = useContext(ShopContext);
+  const { getTotalCartItems } = useContext(ShopContext);
 
   return (
     <div className="navbar" style={{ padding: 5 }}>
       <Link to="/" style={{ textDecoration: "none" }}>
         <div className="nav-logo">
           <img src={logo} alt="" />
-          <p>SHOPPER</p>
+          <p>BUYNEW</p>
         </div>
       </Link>
 
